@@ -1,5 +1,8 @@
-# Projet-OC-n9
-Produire une étude de marché avec Python
+<p align="center"><strong><h1>Projet OC n°9</h1></strong></p>
+
+<p align="center"><strong><h1>Produire une étude de marché avec Python</h1></strong></p>
+
+
 ![image](https://github.com/user-attachments/assets/9c03ac95-fa65-401b-84a5-09d23324992b)
 
 Vous travaillez chez La poule qui chante, une entreprise française d’agroalimentaire. Elle souhaite se développer à l'international.
